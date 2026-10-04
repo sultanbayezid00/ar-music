@@ -1,0 +1,6 @@
+{
+  "name": "আর মিউজিক",
+  "description": "AR Music - clean, modern music player UI with Home, Search, Library, Playlists, Albums, Artists, Now Playing, official YouTube search & embedded player, and offline playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">আর মিউজিক</string>
+    <string name="brand_name">AR Music</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="library">Library</string>
+    <string name="playlists">Playlists</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="offline_music">Offline Music</string>
+</resources>
